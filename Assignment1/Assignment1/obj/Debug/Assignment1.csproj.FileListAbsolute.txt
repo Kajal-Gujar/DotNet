@@ -1,0 +1,14 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\asus\Downloads\dot-net-main\dot-net-main\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\asus\Downloads\dot-net-main\dot-net-main\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\asus\Downloads\dot-net-main\dot-net-main\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\asus\Downloads\dot-net-main\dot-net-main\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\dot-net-main\dot-net-main\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\dot-net-main\dot-net-main\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\asus\Downloads\dot-net-main\dot-net-main\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

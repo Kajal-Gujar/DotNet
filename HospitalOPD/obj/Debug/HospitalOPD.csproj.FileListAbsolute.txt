@@ -1,0 +1,10 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\bin\Debug\HospitalOPD.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\bin\Debug\HospitalOPD.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\bin\Debug\HospitalOPD.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\obj\Debug\HospitalOPD.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\obj\Debug\HospitalOPD.Form1.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\obj\Debug\HospitalOPD.Properties.Resources.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\obj\Debug\HospitalOPD.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\obj\Debug\HospitalOPD.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\obj\Debug\HospitalOPD.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\HospitalOPD\obj\Debug\HospitalOPD.pdb

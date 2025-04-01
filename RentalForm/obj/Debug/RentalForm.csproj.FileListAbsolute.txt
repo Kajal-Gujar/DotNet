@@ -1,0 +1,10 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\bin\Debug\RentalForm.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\bin\Debug\RentalForm.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\bin\Debug\RentalForm.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\obj\Debug\RentalForm.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\obj\Debug\RentalForm.Form1.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\obj\Debug\RentalForm.Properties.Resources.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\obj\Debug\RentalForm.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\obj\Debug\RentalForm.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\obj\Debug\RentalForm.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\RentalForm\obj\Debug\RentalForm.pdb

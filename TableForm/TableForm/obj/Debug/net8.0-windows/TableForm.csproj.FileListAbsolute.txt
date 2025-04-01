@@ -1,0 +1,16 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.Form1.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.AssemblyInfoInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.AssemblyInfo.cs
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\bin\Debug\net8.0-windows\TableForm.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\bin\Debug\net8.0-windows\TableForm.deps.json
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\bin\Debug\net8.0-windows\TableForm.runtimeconfig.json
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\bin\Debug\net8.0-windows\TableForm.dll
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\bin\Debug\net8.0-windows\TableForm.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.dll
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\refint\TableForm.dll
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\TableForm.genruntimeconfig.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TableForm\TableForm\obj\Debug\net8.0-windows\ref\TableForm.dll

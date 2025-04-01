@@ -1,0 +1,7 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\oops03\obj\Debug\oops03.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\oops03\obj\Debug\oops03.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\oops03\bin\Debug\oops03.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\oops03\bin\Debug\oops03.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\oops03\bin\Debug\oops03.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\oops03\obj\Debug\oops03.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\oops03\obj\Debug\oops03.pdb

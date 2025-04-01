@@ -1,0 +1,10 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\bin\Debug\PersonalA.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\bin\Debug\PersonalA.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\bin\Debug\PersonalA.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\obj\Debug\PersonalA.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\obj\Debug\PersonalA.Form1.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\obj\Debug\PersonalA.Properties.Resources.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\obj\Debug\PersonalA.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\obj\Debug\PersonalA.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\obj\Debug\PersonalA.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\PersonalA\obj\Debug\PersonalA.pdb

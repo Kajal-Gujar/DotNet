@@ -1,0 +1,20 @@
+D:\Project\DotNet\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Project\DotNet\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Project\DotNet\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Project\DotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Project\DotNet\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Project\DotNet\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Project\DotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Project\DotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Project\DotNet\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\Calculator\Calculator\obj\Debug\Calculator.pdb

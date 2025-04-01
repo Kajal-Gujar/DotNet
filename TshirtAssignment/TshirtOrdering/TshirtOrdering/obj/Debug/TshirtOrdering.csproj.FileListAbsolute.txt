@@ -1,0 +1,10 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\obj\Debug\TshirtOrdering.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\obj\Debug\TshirtOrdering.Form1.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\obj\Debug\TshirtOrdering.Properties.Resources.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\obj\Debug\TshirtOrdering.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\obj\Debug\TshirtOrdering.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\bin\Debug\TshirtOrdering.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\bin\Debug\TshirtOrdering.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\bin\Debug\TshirtOrdering.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\obj\Debug\TshirtOrdering.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtAssignment\TshirtOrdering\TshirtOrdering\obj\Debug\TshirtOrdering.pdb

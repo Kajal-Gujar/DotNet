@@ -1,0 +1,10 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\obj\Debug\Student Registration.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\obj\Debug\Student_Registration.Form1.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\obj\Debug\Student Registration.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\obj\Debug\Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\Student Registration\obj\Debug\Student Registration.pdb

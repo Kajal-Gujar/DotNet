@@ -1,0 +1,10 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\bin\Debug\Railway Reservation.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\bin\Debug\Railway Reservation.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\bin\Debug\Railway Reservation.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\obj\Debug\Railway Reservation.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\obj\Debug\Railway_Reservation.Form1.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\obj\Debug\Railway_Reservation.Properties.Resources.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\obj\Debug\Railway Reservation.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\obj\Debug\Railway Reservation.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\obj\Debug\Railway Reservation.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\Railway Reservation\obj\Debug\Railway Reservation.pdb

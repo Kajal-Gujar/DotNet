@@ -1,0 +1,10 @@
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\bin\Debug\TshirtOdering.exe.config
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\bin\Debug\TshirtOdering.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\bin\Debug\TshirtOdering.pdb
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\obj\Debug\TshirtOdering.csproj.AssemblyReference.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\obj\Debug\TshirtOdering.Properties.Resources.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\obj\Debug\TshirtOdering.TshirtOrder.resources
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\obj\Debug\TshirtOdering.csproj.GenerateResource.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\obj\Debug\TshirtOdering.csproj.CoreCompileInputs.cache
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\obj\Debug\TshirtOdering.exe
+C:\Users\91976\Desktop\Full Stack\dotNet\TshirtOdering\obj\Debug\TshirtOdering.pdb
