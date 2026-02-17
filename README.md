@@ -5,7 +5,7 @@ This is a Django project demonstrating the **MVT (Model-View-Template)** archite
 ## Project Structure
 
 ```
-DotNet/
+project-root/                # Django MVT Project
 ├── myproject/              # Main project configuration
 │   ├── settings.py         # Project settings
 │   ├── urls.py            # Main URL configuration
