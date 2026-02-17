@@ -1,0 +1,59 @@
+{% extends "core/base.html" %}
+
+{% block title %}{{ page_title }}{% endblock %}
+
+{% block content %}
+<h2>About This Django Project</h2>
+
+<div style="line-height: 1.6;">
+    <p>This is a basic Django project demonstrating the <strong>MVT (Model-View-Template)</strong> architectural pattern.</p>
+    
+    <h3>Project Structure</h3>
+    <pre style="background-color: #f4f4f4; padding: 15px; border-radius: 5px; overflow-x: auto;">
+django_app/
+├── manage.py              # Django management script
+├── mysite/               # Project configuration
+│   ├── settings.py       # Project settings (PostgreSQL config here)
+│   ├── urls.py          # Main URL routing
+│   └── wsgi.py          # WSGI configuration
+└── core/                # Example app demonstrating MVT
+    ├── models.py        # M - Model: Task model
+    ├── views.py         # V - View: Business logic
+    ├── urls.py          # URL routing for core app
+    ├── admin.py         # Admin interface configuration
+    └── templates/       # T - Templates: HTML files
+        └── core/
+            ├── base.html
+            ├── index.html
+            └── about.html</pre>
+
+    <h3>MVT Architecture Explained</h3>
+    <ul>
+        <li><strong>Model (M):</strong> Defines the data structure. In this project, the <code>Task</code> model represents to-do items stored in the PostgreSQL database.</li>
+        <li><strong>View (V):</strong> Contains the business logic. Views process requests, interact with models, and return responses.</li>
+        <li><strong>Template (T):</strong> The presentation layer. Templates are HTML files with Django template language for dynamic content.</li>
+    </ul>
+
+    <h3>Technologies Used</h3>
+    <ul>
+        <li><strong>Django 6.0:</strong> Python web framework</li>
+        <li><strong>PostgreSQL:</strong> Relational database (configured but requires credentials)</li>
+        <li><strong>psycopg2-binary:</strong> PostgreSQL adapter for Python</li>
+    </ul>
+
+    <h3>Key Features</h3>
+    <ul>
+        <li>✓ PostgreSQL database configuration</li>
+        <li>✓ Example Task model with CRUD operations</li>
+        <li>✓ Django Admin interface for data management</li>
+        <li>✓ URL routing and views</li>
+        <li>✓ Bootstrap-like styling (inline CSS)</li>
+        <li>✓ Ready for expansion with more apps and features</li>
+    </ul>
+
+    <div style="margin-top: 20px; padding: 15px; background-color: #d4edda; border-left: 4px solid #28a745; border-radius: 5px;">
+        <h4 style="margin-top: 0;">Getting Started</h4>
+        <p>To start developing, see the <code>README_DJANGO.md</code> file in the <code>django_app/</code> directory for complete setup instructions.</p>
+    </div>
+</div>
+{% endblock %}
