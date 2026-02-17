@@ -1,0 +1,55 @@
+{% extends "core/base.html" %}
+
+{% block title %}{{ page_title }}{% endblock %}
+
+{% block content %}
+<h2>Welcome to the Django MVT Demo!</h2>
+
+<div style="background-color: #e7f3ff; padding: 15px; border-left: 4px solid #2196F3; margin-bottom: 20px;">
+    <h3>This page demonstrates Django's MVT (Model-View-Template) architecture:</h3>
+    <ul>
+        <li><strong>Model:</strong> The <code>Task</code> model defined in <code>core/models.py</code></li>
+        <li><strong>View:</strong> The <code>index</code> function in <code>core/views.py</code></li>
+        <li><strong>Template:</strong> This HTML file at <code>core/templates/core/index.html</code></li>
+    </ul>
+</div>
+
+<h3>Task List (from Database)</h3>
+
+{% if tasks %}
+    <div style="margin-top: 15px;">
+        {% for task in tasks %}
+        <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 10px; border-radius: 5px; background-color: {% if task.completed %}#d4edda{% else %}#fff3cd{% endif %};">
+            <h4 style="margin-top: 0;">
+                {{ task.title }}
+                {% if task.completed %}
+                    <span style="color: green; font-size: 0.9em;">[✓ Completed]</span>
+                {% else %}
+                    <span style="color: orange; font-size: 0.9em;">[⚠ Pending]</span>
+                {% endif %}
+            </h4>
+            <p>{{ task.description }}</p>
+            <small style="color: #666;">
+                Created: {{ task.created_at|date:"M d, Y H:i" }} | 
+                Updated: {{ task.updated_at|date:"M d, Y H:i" }}
+            </small>
+        </div>
+        {% endfor %}
+    </div>
+{% else %}
+    <div style="padding: 20px; background-color: #f8f9fa; border-radius: 5px; text-align: center;">
+        <p style="color: #666;">No tasks yet! Create some tasks using the Django admin panel.</p>
+        <p><a href="/admin/" style="color: #0c4b33;">Go to Admin Panel →</a></p>
+    </div>
+{% endif %}
+
+<div style="margin-top: 30px; padding: 15px; background-color: #fff3e0; border-radius: 5px;">
+    <h4>Next Steps:</h4>
+    <ol>
+        <li>Visit the <a href="/admin/" style="color: #0c4b33;">admin panel</a> to create tasks</li>
+        <li>Create a superuser: <code>python manage.py createsuperuser</code></li>
+        <li>Explore the code in <code>django_app/core/</code> directory</li>
+        <li>Add your own models, views, and templates!</li>
+    </ol>
+</div>
+{% endblock %}
