@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Django MVT Project</title>
+</head>
+<body>
+    <h1>Welcome to Django MVT Project</h1>
+    <p>This is a Django project with MVT (Model-View-Template) architecture.</p>
+    
+    <h2>Available Apps:</h2>
+    <ul>
+        <li><a href="{% url 'blog:post_list' %}">Blog App</a> - Manage blog posts</li>
+        <li><a href="{% url 'core:about' %}">About Page</a> - Learn more about this project</li>
+    </ul>
+    
+    <h2>MVT Architecture Components:</h2>
+    <ul>
+        <li><strong>Models:</strong> Define the data structure (e.g., Post, UserProfile)</li>
+        <li><strong>Views:</strong> Handle the business logic and user requests</li>
+        <li><strong>Templates:</strong> Render the HTML pages (like this one)</li>
+    </ul>
+</body>
+</html>
